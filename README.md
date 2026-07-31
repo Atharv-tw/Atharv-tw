@@ -34,24 +34,15 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### 🧩 projects
 
-### 🛠️ building
-- **[`Onyx`](https://github.com/Atharv-tw/Onyx)** — website security scanner where the AI **fixes** issues and raises **PRs** for you `Python`
-- **[`CIVIC_SETU`](https://github.com/Atharv-tw/CIVIC_SETU)** — security analysis + automated problem-solving platform `JavaScript`
-
-</td>
-<td valign="top" width="50%">
-
-### 🚀 shipped
-- **[`FINSTAR`](https://github.com/Atharv-tw/FINSTAR)** — gamified financial education for teens `Dart · Flutter`
-- **[`Health-companion`](https://github.com/Atharv-tw/Health-companion)** — health & wellbeing companion app `TypeScript`
-
-</td>
-</tr>
-</table>
+| Project | What it does | Tech |
+| ------- | ------------ | ---- |
+| **[`Onyx`](https://github.com/Atharv-tw/Onyx)** | Website security scanner where the AI **fixes** issues and raises **PRs** for you | `Python` |
+| **[`CIVIC_SETU`](https://github.com/Atharv-tw/CIVIC_SETU)** | Security analysis + automated problem-solving platform | `JavaScript` |
+| **[`FINSTAR`](https://github.com/Atharv-tw/FINSTAR)** | Gamified financial education for teens | `Dart · Flutter` |
+| **[`Health-companion`](https://github.com/Atharv-tw/Health-companion)** | Health & wellbeing companion app | `TypeScript` |
+| **[`Health-Vault`](https://github.com/Atharv-tw/Health-Vault)** | Secure health records platform · _contributor_ | `TypeScript` |
 
 ---
 
