@@ -38,7 +38,9 @@ wins:
 
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
+| **[`Nexera`](https://nexeraofficial.in)** 🔴 live | Product I lead as **CTO** — architecting the core web app: dashboards, content discovery & platform flows | `Next.js · React` |
 | **[`Onyx`](https://github.com/Atharv-tw/Onyx)** | AI-powered DAST platform — concurrent scanning engine (Subfinder/Nmap/Nuclei) + AI triage (Claude/Llama, 90%+ dedup) that auto-raises remediation **PRs**, cutting MTTR ~70% | `Python · FastAPI · AI` |
+| **[`Codeswipe`](https://codeswipe.app)** 🔴 live | Swipe-based developer collaboration platform — gesture-driven cards & animations, mobile-first `100+ pre-registers` | `React · Framer Motion` |
 | **[`HealthVault`](https://github.com/Atharv-tw/Health-Vault)** | Zero-knowledge encrypted health records — AES-256-GCM client-side, 30+ APIs, QR access control + AI patient summaries | `TypeScript` |
 | **[`AI Health Companion`](https://github.com/Atharv-tw/Health-companion)** | Safety-first health platform with 8 context-aware AI agents — RAG, strict guardrails, deterministic risk detection | `TypeScript · RAG` |
 | **[`Finstar`](https://github.com/Atharv-tw/FINSTAR)** | Gamified finance education for Gen-Z teens — 4 interactive game modules + AI-backed market simulation `100+ reviews` | `Dart · Firebase` |
@@ -78,6 +80,7 @@ wins:
 ### 🔗 connect
 
 <p align="center">
+  <a href="https://atharvportfolio-wheat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/atharvtw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tiwariatharv01042005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Atharv-tw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
