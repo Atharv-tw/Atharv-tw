@@ -67,10 +67,10 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
 
 ---
 
-### 📆 contribution calendar
+### 📈 contribution activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/Atharv-tw" alt="Atharv's contribution calendar" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-tw&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Atharv's contribution activity" width="100%" />
 </p>
 
 ---
