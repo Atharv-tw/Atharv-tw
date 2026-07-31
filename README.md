@@ -67,10 +67,10 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
 
 ---
 
-### 🐍 contribution graph
+### 📆 contribution calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-tw/Atharv-tw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://ghchart.rshah.org/2ea043/Atharv-tw" alt="Atharv's contribution calendar" width="100%" />
 </p>
 
 ---
