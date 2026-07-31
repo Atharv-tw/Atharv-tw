@@ -1,5 +1,5 @@
 <h3 align="center">
-  <code>🔐 Security</code> &nbsp;·&nbsp; <code>🤖 AI</code> &nbsp;·&nbsp; <code>⚙️ Systems</code> &nbsp;·&nbsp; <code>🌐 Full-Stack</code>
+  <code>🌐 Full-Stack</code> &nbsp;·&nbsp; <code>🤖 AI Engineer</code> &nbsp;·&nbsp; <code>⚙️ Systems</code> &nbsp;·&nbsp; <code>🏗️ CTO @ Nexera</code>
 </h3>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 ```yaml
 name:        Atharv Tiwari
-located_in:  India
-handle:      Atharv-tw
+role:        Full-Stack Developer & AI Engineer
+located_in:  New Delhi, India
+studying:    B.Tech CSE @ GGSIPU  (2024 – 2028)
+now:         CTO @ Nexera
 
-focus:
-  - AI-powered security tooling  (scan → fix → raise PR)
-  - Healthtech & civic tech that solves real problems
-  - Gamified fintech (making hard topics people actually use)
-  - Full-stack + security automation
+what_i_do:
+  - Ship production systems across healthtech, fintech, civic & edtech
+  - Build AI agents, RAG pipelines & AI-integrated products
+  - Design secure APIs & zero-knowledge encryption  (120+ APIs shipped)
 
-currently:
-  - Sharpening AI, security automation & systems
-  - Building in public
-
-badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
+wins:
+  - 🥈 IEEE T-Hacks 8.0   → 2nd place / 200+  (24-hour build)
+  - 🏆 Shloka Decode 2.0  → Winner
+  - 🔟 B-Plan e-Summit 25 → Top 10 / 200+ teams
 ```
 
 </details>
@@ -36,20 +36,24 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
 
 ### 🧩 projects
 
-| Project | What it does | Tech |
-| ------- | ------------ | ---- |
-| **[`Onyx`](https://github.com/Atharv-tw/Onyx)** | Website security scanner where the AI **fixes** issues and raises **PRs** for you | `Python` |
-| **[`CIVIC_SETU`](https://github.com/Atharv-tw/CIVIC_SETU)** | Security analysis + automated problem-solving platform | `JavaScript` |
-| **[`FINSTAR`](https://github.com/Atharv-tw/FINSTAR)** | Gamified financial education for teens | `Dart · Flutter` |
-| **[`Health-companion`](https://github.com/Atharv-tw/Health-companion)** | Health & wellbeing companion app | `TypeScript` |
-| **[`Health-Vault`](https://github.com/Atharv-tw/Health-Vault)** | Secure health records platform · _contributor_ | `TypeScript` |
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| **[`Onyx`](https://github.com/Atharv-tw/Onyx)** | AI-powered DAST platform — concurrent scanning engine (Subfinder/Nmap/Nuclei) + AI triage (Claude/Llama, 90%+ dedup) that auto-raises remediation **PRs**, cutting MTTR ~70% | `Python · FastAPI · AI` |
+| **[`HealthVault`](https://github.com/Atharv-tw/Health-Vault)** | Zero-knowledge encrypted health records — AES-256-GCM client-side, 30+ APIs, QR access control + AI patient summaries | `TypeScript` |
+| **[`AI Health Companion`](https://github.com/Atharv-tw/Health-companion)** | Safety-first health platform with 8 context-aware AI agents — RAG, strict guardrails, deterministic risk detection | `TypeScript · RAG` |
+| **[`Finstar`](https://github.com/Atharv-tw/FINSTAR)** | Gamified finance education for Gen-Z teens — 4 interactive game modules + AI-backed market simulation `100+ reviews` | `Dart · Firebase` |
+| **[`CIVIC_SETU`](https://github.com/Atharv-tw/CIVIC_SETU)** | Civic governance platform bringing services & transparency to citizens | `JavaScript` |
 
 ---
 
 ### 💻 stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,dart,react,nextjs,flutter,nodejs,express,fastapi,tailwind,mongodb,postgres,firebase,supabase,docker,git,githubactions,vercel,gcp,linux&perline=11" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,tailwind,mongodb,postgres,firebase,supabase,dart,docker,git&perline=8" alt="tech stack" />
+</p>
+
+<p align="center">
+  <code>AI Agents</code> · <code>RAG</code> · <code>Vector DBs</code> · <code>Framer Motion</code> · <code>REST APIs</code> · <code>Zero-Knowledge Encryption</code>
 </p>
 
 ---
@@ -59,10 +63,6 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Atharv-tw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Atharv-tw&theme=tokyonight&hide_border=false" alt="streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-tw&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 </p>
 
 ---
@@ -83,4 +83,4 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
   <a href="https://github.com/Atharv-tw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><i>Always building. Always learning. ⚡</i></p>
+<p align="center"><i>Building production systems, one ship at a time. ⚡</i></p>
