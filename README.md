@@ -1,31 +1,99 @@
-# 💫 About Me:
-🔐 I build AI-powered security tooling — scanners that not only find vulnerabilities but fix them and raise PRs for you.<br>🩺 I care about healthtech and civic tech that solves real problems.<br>🎮 I like turning hard topics (like personal finance) into things people actually want to use.<br>🌱 Currently sharpening my skills across AI, security automation, and full-stack development.<br>
+<h3 align="center">
+  <code>🔐 Security</code> &nbsp;·&nbsp; <code>🤖 AI</code> &nbsp;·&nbsp; <code>⚙️ Systems</code> &nbsp;·&nbsp; <code>🌐 Full-Stack</code>
+</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvtw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwariatharv01042005@gmail.com)
-
-## 📌 Featured Projects:
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| **[Onyx](https://github.com/Atharv-tw/Onyx)** | Checks your website's security — and when it finds problems, the AI fixes them and even raises PRs for you. | Python |
-| **[CIVIC_SETU](https://github.com/Atharv-tw/CIVIC_SETU)** | Website security analysis and automated problem-solving platform. | JavaScript |
-| **[FINSTAR](https://github.com/Atharv-tw/FINSTAR)** | Gamified financial education app for teenagers with interactive learning modules. | Dart / Flutter |
-| **[Health-companion](https://github.com/Atharv-tw/Health-companion)** | A companion app focused on health and wellbeing. | TypeScript |
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Atharv-tw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Atharv-tw&theme=tokyonight&hide_border=false)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Atharv-tw&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-tw&label=views&color=blueviolet&style=flat" alt="profile views" />
+  <a href="https://github.com/Atharv-tw?tab=followers"><img src="https://img.shields.io/github/followers/Atharv-tw?label=followers&style=flat&color=blueviolet&logo=github" alt="followers" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Atharv-tw&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details open>
+<summary><b>&nbsp;$ whoami --verbose</b></summary>
+
+```yaml
+name:        Atharv Tiwari
+located_in:  India
+handle:      Atharv-tw
+
+focus:
+  - AI-powered security tooling  (scan → fix → raise PR)
+  - Healthtech & civic tech that solves real problems
+  - Gamified fintech (making hard topics people actually use)
+  - Full-stack + security automation
+
+currently:
+  - Sharpening AI, security automation & systems
+  - Building in public
+
+badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
+```
+
+</details>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🛠️ building
+- **[`Onyx`](https://github.com/Atharv-tw/Onyx)** — website security scanner where the AI **fixes** issues and raises **PRs** for you `Python`
+- **[`CIVIC_SETU`](https://github.com/Atharv-tw/CIVIC_SETU)** — security analysis + automated problem-solving platform `JavaScript`
+
+</td>
+<td valign="top" width="50%">
+
+### 🚀 shipped
+- **[`FINSTAR`](https://github.com/Atharv-tw/FINSTAR)** — gamified financial education for teens `Dart · Flutter`
+- **[`Health-companion`](https://github.com/Atharv-tw/Health-companion)** — health & wellbeing companion app `TypeScript`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💻 stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,js,dart,react,nextjs,flutter,nodejs,express,fastapi,tailwind,mongodb,postgres,firebase,supabase,docker,git,githubactions,vercel,gcp,linux&perline=11" alt="tech stack" />
+</p>
+
+---
+
+### 📊 stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Atharv-tw&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Atharv-tw&theme=tokyonight&hide_border=false" alt="streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-tw&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+</p>
+
+---
+
+### 🐍 contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atharv-tw/Atharv-tw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution calendar" />
+</p>
+
+---
+
+### 🔗 connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/atharvtw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tiwariatharv01042005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Atharv-tw"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center"><i>Always building. Always learning. ⚡</i></p>
