@@ -73,10 +73,6 @@ badges: [ Pull Shark x3, Pair Extraordinaire, Quickdraw, YOLO ]
   <img src="https://raw.githubusercontent.com/Atharv-tw/Atharv-tw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution calendar" />
-</p>
-
 ---
 
 ### 🔗 connect
