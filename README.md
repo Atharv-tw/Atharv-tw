@@ -25,9 +25,13 @@ what_i_do:
   - Design secure APIs & zero-knowledge encryption  (120+ APIs shipped)
 
 wins:
-  - 🥈 IEEE T-Hacks 8.0   → 2nd place / 200+  (24-hour build)
-  - 🏆 Shloka Decode 2.0  → Winner
-  - 🔟 B-Plan e-Summit 25 → Top 10 / 200+ teams
+  - 🏆 IEEE T-Hacks 8.0   → 2nd place / 800+ Teams (24-hour build)
+  - 🏆 eDC’s Blueprint 6.0, IIT Delhi → Competed till Delhi Regionals round. Got invited to Emergence, IIT Delhi’s Flagship incubation program as well as got BeCon’26 special invitations.
+  - 🏆 Shloka Decode 2.0, NSUT  → Winner / 200+ Teamd
+  - 🏆 VibeForge’26 → Winner among 500+ participants in an 8-hour hackathon
+  - 🏆 B-Plan e-Summit 25, DTU → Top 10 / 500+ Teams
+  - 🏆 Pitch Tank, DU → 2nd Place among 500+ participants
+  
 ```
 
 </details>
