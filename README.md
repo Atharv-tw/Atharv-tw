@@ -23,14 +23,6 @@ what_i_do:
   - Ship production systems across healthtech, fintech, civic & edtech
   - Build AI agents, RAG pipelines & AI-integrated products
   - Design secure APIs & zero-knowledge encryption  (120+ APIs shipped)
-
-wins:
-  - 🏆 IEEE T-Hacks 8.0   → 2nd place / 800+ Teams (24-hour build)
-  - 🏆 eDC’s Blueprint 6.0, IIT Delhi → Got invited to Emergence, IIT Delhi’s Flagship incubation program.
-  - 🏆 Shloka Decode 2.0, NSUT  → Winner / 200+ Teamd
-  - 🏆 VibeForge’26 → Winner among 500+ participants in an 8-hour hackathon
-  - 🏆 B-Plan e-Summit 25, DTU → Top 10 / 500+ Teams
-  - 🏆 Pitch Tank, DU → 2nd Place among 500+ participants
   
 ```
 
